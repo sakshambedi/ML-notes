@@ -1,0 +1,13 @@
+./book/*
+.env
+./data/*
+./datasets/*
+./.ipynb_checkpoints/
+./hands on machine learning book notes/
+data/*
+datasets/*
+book/*
+.DS_Store
+*/.DS_Store
+.ipynb_checkpoints/
+
